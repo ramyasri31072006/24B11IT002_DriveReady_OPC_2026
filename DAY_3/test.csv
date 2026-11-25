@@ -1,0 +1,11 @@
+question,must_include
+Do you repair smartphones?,smartphones
+Do you repair laptops?,laptops
+Do you offer screen replacement?,screen replacement
+Do you offer battery replacement?,battery replacement
+Do you offer software troubleshooting?,software troubleshooting
+What must happen before repair?,diagnosis
+How much does a phone repair cost?,diagnosis
+Which days are you open?,Saturday
+Are you open on Sunday?,Sunday
+What is your shop address?,check with the owner
